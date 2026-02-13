@@ -1,0 +1,4 @@
+outputs/
+    sentiment_behavior.png
+    sentiment_performance.png
+    trader_segmentation.png
